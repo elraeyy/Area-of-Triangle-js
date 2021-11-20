@@ -9,3 +9,7 @@ function Area() {
 
     document.getElementById("display").innerHTML = Area
 }
+
+function calc() {
+    document.getElementById("rxraey").innerHTML = Math.PI;
+}
